@@ -1,0 +1,22 @@
+-- select get_ddl('view', 'V_CSU_PARSED');
+-- select get_ddl('view', 'V_CSU_ROHLIK_PRICE_COMPARISON'); 
+-- select get_ddl('view', 'V_ITESCO_STALE_PRODUKTY'); 
+-- select get_ddl('view', 'V_KOSIK_STALE_PRODUKTY');  
+--select get_ddl('view', 'V_ROHLIK_AGGREGATION_YEAR_MONTH');  
+--select get_ddl('view', 'V_ROHLIK_BRAMBORY');  
+-- select get_ddl('view', 'V_ROHLIK_CIBULE'); 
+-- select get_ddl('view', 'V_ROHLIK_CUKR_KRYSTAL');  
+-- select get_ddl('view', 'V_ROHLIK_HOVEZI_ZADNI');  
+-- select get_ddl('view', 'V_ROHLIK_MASLO'); 
+-- select get_ddl('view', 'V_ROHLIK_MLEKO'); 
+-- select get_ddl('view', 'V_ROHLIK_MOUKA');  
+-- select get_ddl('view', 'V_ROHLIK_PARSED');  
+-- select get_ddl('view', 'V_ROHLIK_PIVO');  
+-- select get_ddl('view', 'V_ROHLIK_STALE_PRODUKTY'); 
+-- select get_ddl('view', 'V_ROHLIK_SUNKA'); 
+-- select get_ddl('view', 'V_ROHLIK_TUZEMAK'); 
+-- select get_ddl('view', 'V_ROHLIK_VEJCE'); 
+
+-- select get_ddl('view', 'V_CSU_KOSIK_PRICE_COMPARISON'); 
+-- select get_ddl('view', 'V_KOSIK_STALE_PRODUKTY');
+-- select get_ddl('view', 'V_KOSIK_STALE_ZBOZI_S_CENOVM_MULTIPLIKATOREM');
